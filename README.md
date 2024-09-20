@@ -54,6 +54,10 @@ The app follows a clean and modular folder structure:
 bash
 lib/
 │
+
+
+
+
 ├── controller/                # GetX controllers for managing states
 │   └── quotes_controller.dart
 │
@@ -74,18 +78,15 @@ lib/
 
 
 <div align = "center">
-  <img src = "https://github.com/user-attachments/assets/1d5a10c2-f981-4346-88ea-cb38212b3662"  height=35% width=22%  />
-   <img src = "https://github.com/user-attachments/assets/264e24a6-cdb1-4a69-97e7-c6c77dc0b777"  height=35% width=22%  />
-   <img src = "https://github.com/user-attachments/assets/86d8e6c6-1626-443f-be1a-668a1561c3b3"  height=35% width=22%  />
-   <img src = "https://github.com/user-attachments/assets/8dce8f52-d96c-4fed-9649-df703b3f62fd"  height=35% width=22%  />
-   <img src = "https://github.com/user-attachments/assets/8d73e773-707b-4f28-840c-010fdc1afb7d"  height=35% width=22%  />
-  <img src = "https://github.com/user-attachments/assets/bf37a4b5-842f-456c-b7d6-2fc82282e151"  height=35% width=22%  />
+  <img src = "https://github.com/user-attachments/assets/cda1faa0-072b-40e4-895c-31d570403fb3"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/fe5caa13-3c5a-4f2b-98d6-ec8daf0d44d2"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/e3b48cd4-bf4d-409e-aed3-973a53c05572"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/9917fe98-f206-4be5-ace6-2a18c3330c86"  height=35% width=22%  />
+   <img src = "https://github.com/user-attachments/assets/9af0ac04-b469-4b32-9ca3-044ee4e3d7d2"  height=35% width=22%  />
+  <img src = "https://github.com/user-attachments/assets/57597d01-ad27-468f-8aca-239361615792"  height=35% width=22%  />
 
 
-  <video height="450" src="https://github.com/user-attachments/assets/fb9f9397-063d-49f4-a739-7815cb7bbd5a" />
-
-
-
+  <video height="450" src="https://github.com/user-attachments/assets/39d985f6-477a-4510-b86d-e78762fb5486" />
 
 
 
