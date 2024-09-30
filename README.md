@@ -47,35 +47,6 @@ A powerful and elegant Quotes App built using Flutter that displays a wide colle
      - Users can scroll through the entire category list or jump to specific categories.
 
 
-## 📂 Folder Structure
-
-The app follows a clean and modular folder structure:
-
-bash
-lib/
-│
-
-
-
-
-├── controller/                # GetX controllers for managing states
-│   └── quotes_controller.dart
-│
-├── database/                  # SQLite database logic
-│   └── database_helper.dart
-│
-├── model/                     # Models for quotes
-│   └── quote_model.dart
-│
-├── pages/                     # Main screens and UI pages
-│   ├── home_screen.dart
-│   ├── favourite_screen.dart
-│   └── category_screen.dart
-│    
-│
-└── services/                  # API service for fetching quotes
-   └── api_service.dart
-
 
 <div align = "center">
   <img src = "https://github.com/user-attachments/assets/cda1faa0-072b-40e4-895c-31d570403fb3"  height=35% width=22%  />
